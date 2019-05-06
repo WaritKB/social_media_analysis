@@ -195,7 +195,7 @@
         },
 
         title:{
-            text: "Krungsri Trading Hashtag  ",
+            text: "SCB Trading Hashtag  ",
             fontFamily:"roboto"
 
 
