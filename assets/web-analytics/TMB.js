@@ -195,7 +195,7 @@
         },
 
         title:{
-            text: "TMB Trading Hashtag  ",
+            text: "TMB Trending Hashtag  ",
             fontFamily:"roboto"
 
 
