@@ -204,7 +204,7 @@
         },
 
         title:{
-            text: "Krungsri Trading Hashtag  ",
+            text: "Krungsri Trending Hashtag  ",
             fontFamily:"roboto"
 
 
