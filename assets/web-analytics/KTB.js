@@ -195,7 +195,7 @@
         },
 
         title:{
-            text: "KTB Trading Hashtag  ",
+            text: "KTB Trending Hashtag  ",
             fontFamily:"roboto"
 
 
