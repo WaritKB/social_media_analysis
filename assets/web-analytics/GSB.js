@@ -186,7 +186,7 @@
         },
 
         title:{
-            text: "GSB Trading Hashtag  ",
+            text: "GSB Trending Hashtag  ",
             fontFamily:"roboto"
 
 
