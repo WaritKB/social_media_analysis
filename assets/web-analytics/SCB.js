@@ -195,7 +195,7 @@
         },
 
         title:{
-            text: "SCB Trading Hashtag  ",
+            text: "SCB Trending Hashtag  ",
             fontFamily:"roboto"
 
 
