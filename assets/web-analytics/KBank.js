@@ -291,7 +291,7 @@
         },
 
         title:{
-            text: "KBank Trading Hashtag  ",
+            text: "KBank Trending Hashtag  ",
             fontFamily:"roboto"
 
 
